@@ -8,7 +8,7 @@ import AssembyIcon from '../public/assets/images/assembly.png'
 import QualityControlIcon from '../public/assets/images/quality-control.png'
 import VideoPlay from '../public/assets/svgs/VideoPlay'
 import MachineryParkImage1 from '../public/assets/images/machinery-park-5.jpg'
-import MachineryParkImage2 from '../public/assets/images/machinerypark1.JPG'
+import MachineryParkImage2 from '../public/assets/images/machinery-park-1.jpg'
 import MachineryParkImage3 from '../public/assets/images/machinery-park-3.jpg'
 import MachineryParkImage4 from '../public/assets/images/machinery-park-2.jpg'
 
