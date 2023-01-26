@@ -1,9 +1,9 @@
 import useTranslation from 'next-translate/useTranslation'
 import React, { useState } from 'react'
 import Layout from '../components/Layout'
-import Capability1 from '../assets/images/machinery-park-1.jpg'
-import Capability2 from '../assets/images/machinery-park-2.jpg'
-import Capability3 from '../assets/images/machinery-park-3.jpg'
+import Capability1 from '../public/assets/images/machinery-park-1.jpg'
+import Capability2 from '../public/assets/images/machinery-park-2.jpg'
+import Capability3 from '../public/assets/images/machinery-park-3.jpg'
 
 import Image from 'next/image'
 

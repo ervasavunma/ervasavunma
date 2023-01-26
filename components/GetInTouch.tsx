@@ -2,7 +2,7 @@ import useTranslation from 'next-translate/useTranslation'
 import React, { useRef, useState } from 'react'
 import { message } from "antd";
 import Image from 'next/image';
-import LoadingGif from '../assets/images/loading-gif.gif'
+import LoadingGif from '../public/assets/images/loading-gif.gif'
 import emailjs from "@emailjs/browser";
 
 const GetInTouch = () => {

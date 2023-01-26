@@ -7,7 +7,7 @@
 }
 
 .homepage-top-image{
-  background-image: url(../assets/images/war.jpg);
+  background-image: url(../public/assets/images/war.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -16,7 +16,7 @@
 }
 
 .homepage-promotion-video{
-  background-image: url(../assets/images/promotion-video-image.jpg);
+  background-image: url(../public/assets/images/promotion-video-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -47,7 +47,7 @@
 }
 
 .corporate-top-image{
-  background-image: url(../assets/images/top-image.jpeg);
+  background-image: url(../public/assets/images/top-image.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -56,7 +56,7 @@
 }
 
 .capabilities-top-image{
-  background-image: url(../assets/images/top-image.jpeg);
+  background-image: url(../public/assets/images/top-image.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

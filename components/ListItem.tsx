@@ -1,7 +1,7 @@
 import useTranslation from 'next-translate/useTranslation'
 import React, { useState } from 'react'
-import HorizontalLine from '../assets/svgs/HorizontalLine'
-import RightArrow from '../assets/svgs/RightArrow'
+import HorizontalLine from '../public/assets/svgs/HorizontalLine'
+import RightArrow from '../public/assets/svgs/RightArrow'
 
 interface Props {
     name: string

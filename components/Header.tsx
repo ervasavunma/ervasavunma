@@ -1,16 +1,16 @@
 import React, { useState } from 'react'
-import PhoneIcon from '../assets/svgs/Phone'
-import EmailIcon from '../assets/svgs/Email'
+import PhoneIcon from '../public/assets/svgs/Phone'
+import EmailIcon from '../public/assets/svgs/Email'
 import useTranslation from 'next-translate/useTranslation'
 import setLanguage from 'next-translate/setLanguage'
-import USAFlag from '../assets/images/usa-flag.png'
-import TurkeyFlag from '../assets/images/turkey-flag.png'
-import Logo from '../assets/images/logo.jpeg'
+import USAFlag from '../public/assets/images/usa-flag.png'
+import TurkeyFlag from '../public/assets/images/turkey-flag.png'
+import Logo from '../public/assets/images/logo.jpeg'
 import Image from 'next/image'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { Drawer } from 'antd'
-import MenuIcon from '../assets/svgs/Menu'
+import MenuIcon from '../public/assets/svgs/Menu'
 
 const Header = () => {
     const { t, lang } = useTranslation()

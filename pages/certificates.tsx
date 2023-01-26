@@ -1,9 +1,9 @@
 import useTranslation from 'next-translate/useTranslation'
 import React from 'react'
 import Layout from '../components/Layout'
-import Certificate1 from '../assets/images/certificate-1.png'
-import Certificate2 from '../assets/images/certificate-2.png'
-import Certificate3 from '../assets/images/certificate-3.png'
+import Certificate1 from '../public/assets/images/certificate-1.png'
+import Certificate2 from '../public/assets/images/certificate-2.png'
+import Certificate3 from '../public/assets/images/certificate-3.png'
 import Image from 'next/image'
 
 const Certificates = () => {

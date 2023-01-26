@@ -1,12 +1,12 @@
 import React from 'react'
 import Layout from '../components/Layout'
 
-import MachineryParkImage1 from '../assets/images/machinery-park-1.jpg'
-import MachineryParkImage2 from '../assets/images/machinery-park-2.jpg'
-import MachineryParkImage3 from '../assets/images/machinery-park-3.jpg'
-import MachineryParkImage4 from '../assets/images/machinery-park-4.jpg'
-import MachineryParkImage5 from '../assets/images/machinery-park-5.jpg'
-import MachineryParkImage6 from '../assets/images/machinery-park-6.jpg'
+import MachineryParkImage1 from '../public/assets/images/machinery-park-1.jpg'
+import MachineryParkImage2 from '../public/assets/images/machinery-park-2.jpg'
+import MachineryParkImage3 from '../public/assets/images/machinery-park-3.jpg'
+import MachineryParkImage4 from '../public/assets/images/machinery-park-4.jpg'
+import MachineryParkImage5 from '../public/assets/images/machinery-park-5.jpg'
+import MachineryParkImage6 from '../public/assets/images/machinery-park-6.jpg'
 import Image from 'next/image'
 import useTranslation from 'next-translate/useTranslation'
 

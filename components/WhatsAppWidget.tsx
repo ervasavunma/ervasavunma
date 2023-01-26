@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import WhatsappWidget from '../assets/images/whatsapp.png'
+import WhatsappWidget from '../public/assets/images/whatsapp.png'
 
 const WhatsAppWidget = () => {
     return (
