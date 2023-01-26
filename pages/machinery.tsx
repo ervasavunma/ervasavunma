@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 
-import MachineryParkImage1 from '../public/assets/images/machinery-park-1.jpg'
+import MachineryParkImage1 from '../public/assets/images/machinerypark1.JPG'
 import MachineryParkImage2 from '../public/assets/images/machinery-park-2.jpg'
 import MachineryParkImage3 from '../public/assets/images/machinery-park-3.jpg'
 import MachineryParkImage4 from '../public/assets/images/machinery-park-4.jpg'
