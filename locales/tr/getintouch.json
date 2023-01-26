@@ -1,0 +1,18 @@
+{
+  "formTitle": "Bize Yazın",
+  "formText": "Aşağıdaki formda yer alan boş alanları doldurarak mesajınızı bize iletebilirsiniz.",
+  "formFullName": "Adınız",
+  "formEmail": "E-Posta",
+  "formPhone": "Telefon",
+  "formMessage": "Mesajınız",
+  "formButton": "Gönder",
+  "addressTitle": "Adres",
+  "addressText": "İvedik Organize Sanayi Bölgesi 1474. Cadde No:38, Yenimahalle / Ankara - Türkiye",
+  "phone": "Telefon",
+  "fax": "Faks",
+  "email": "Email",
+  "coordinates": "Koordinat",
+  "coordinatesButton": "Yol Tarifi",
+  "errorMessage": "Lütfen tüm alanları doldurunuz.",
+  "successMessage": "Mesajınız için teşekkürler. Sizinle en kısa sürede iletişime geçeceğiz."
+}

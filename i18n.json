@@ -1,0 +1,14 @@
+{
+  "locales": ["en", "tr"],
+  "defaultLocale": "tr",
+  "pages": {
+    "*": ["common", "header", "footer", "getintouch"],
+    "/": ["home"],
+    "/about": ["about"],
+    "/corporate": ["corporate"],
+    "/machinery": ["machinery"],
+    "/certificates": ["certificates"],
+    "/contact": ["corporate"],
+    "/capabilities": ["capabilities"]
+  }
+}

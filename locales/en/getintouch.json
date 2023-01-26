@@ -1,0 +1,18 @@
+{
+  "formTitle": "Get in touch with us",
+  "formText": "You can send us your message by fiiling out the form below.",
+  "formFullName": "Full Name",
+  "formEmail": "Email",
+  "formPhone": "Phone",
+  "formMessage": "Message",
+  "formButton": "Send",
+  "addressTitle": "Address",
+  "addressText": "İvedik Organize Sanayi Bölgesi 1474. Cadde No:38, Yenimahalle / Ankara - TURKEY",
+  "phone": "Phone",
+  "fax": "Fax",
+  "email": "Email",
+  "coordinates": "Coordinates",
+  "coordinatesButton": "Directions",
+  "errorMessage": "Please fill all inputs.",
+  "successMessage": "Thanks for your message. We will contact you as soon as possible."
+}
